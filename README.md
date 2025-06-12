@@ -1,4 +1,4 @@
-# Dex Loader (Android)
+# ⚡Dex Loader (Android)
 
 This project demonstrates different methods of loading and executing DEX files in Android, with a focus on dynamic loading techniques such as `DexClassLoader`, `PathClassLoader`, and in-memory execution.
 
